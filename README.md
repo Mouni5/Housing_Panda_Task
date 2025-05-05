@@ -29,4 +29,7 @@ This is a simple backend application built as part of a Backend Developer Intern
    - post request - api/listing - submitting new request
    - Get request - api/listings - For fetching listings
 
+# Screenshot of listing
+![Screenshot (31)](https://github.com/user-attachments/assets/d296b513-d9a9-413c-9538-9184bad3e245)
+
 
