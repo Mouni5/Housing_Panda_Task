@@ -22,6 +22,10 @@ This is a simple backend application built as part of a Backend Developer Intern
 2. Install dependiences 
    - npm install
 3. Set up environment variables
-   - 
+4. Run the Server 
+   - npm start
+5.  API EndPoints
+   - post request - api/listing - submitting new request
+   - Get request - api/listings - For fetching listings
 
 
