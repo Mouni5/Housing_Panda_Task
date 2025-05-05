@@ -1,7 +1,7 @@
 /*import mongoose from "mongoose";
 
 export const connectDB = async() => {
-    await mongoose.connect('mongodb+srv://mounikanelluri28:Mounika@cluster0.siej5em.mongodb.net/?')(Housing-Panda').then(()=>console.log("DB connected"));
+    await mongoose.connect('mongodb+srv://mounikanelluri28:Mounika@cluster0.siej5em.mongodb.net/?')(Housing_panda).then(()=>console.log("DB connected"));
 } */
     import mongoose from 'mongoose';
 
