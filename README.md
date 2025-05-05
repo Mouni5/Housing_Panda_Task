@@ -29,8 +29,9 @@ This is a simple backend application built as part of a Backend Developer Intern
    - post request - api/listing - submitting new request
    - Get request - api/listings - For fetching listings
 
-# Screenshot of listing
+# Screenshot of Database
 ![Screenshot (23)](https://github.com/user-attachments/assets/1427dfd8-5089-42ea-b8ee-13c477b17814)
+# Screenshot of GET and Post Requests
 ![Screenshot (24)](https://github.com/user-attachments/assets/a5af38f8-036a-4a68-807d-833ab5a614ee)
 ![Screenshot (31)](https://github.com/user-attachments/assets/91bec7b8-faa2-4bca-a408-4ed5c7885ffc)
 
