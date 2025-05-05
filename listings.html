@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Listings</title>
+</head>
+<body>
+  <h1>All Listings</h1>
+  <div id="listings-container"></div>
+
+  <script>
+    async function fetchListings() {
+      const response = await fetch('http://localhost:4000/api/listings');
+      const listings = await response.json();
+
+      const container = document.getElementById('listings-container');
+      listings.forEach(listing => {
+        const div = document.createElement('div');
+        div.innerHTML = `
+          <h2>${listing.title}</h2>
+          <p><strong>Description:</strong> ${listing.description}</p>
+          <p><strong>Rent:</strong> $${listing.rent}</p>
+          <p><strong>Address:</strong> ${listing.address}</p>
+          <p><strong>Rooms:</strong> ${listing.rooms}</p>
+          <p><strong>Contact:</strong> ${listing.contact}</p>
+          <hr/>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    fetchListings();
+  </script>
+</body>
+</html>
