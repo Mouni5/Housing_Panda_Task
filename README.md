@@ -30,9 +30,12 @@ This is a simple backend application built as part of a Backend Developer Intern
    - Get request - api/listings - For fetching listings
 
 # Screenshot of listing
-![Screenshot (31)](https://github.com/user-attachments/assets/d296b513-d9a9-413c-9538-9184bad3e245)
-![Screenshot (23)](https://github.com/user-attachments/assets/d46f22ff-2fee-40ee-a744-9ba469827a25)
-![Screenshot (24)](https://github.com/user-attachments/assets/6cb9397a-5fe7-498d-bd76-de0d6d7e1cfd)
+![Screenshot (23)](https://github.com/user-attachments/assets/1427dfd8-5089-42ea-b8ee-13c477b17814)
+![Screenshot (24)](https://github.com/user-attachments/assets/a5af38f8-036a-4a68-807d-833ab5a614ee)
+![Screenshot (31)](https://github.com/user-attachments/assets/91bec7b8-faa2-4bca-a408-4ed5c7885ffc)
+
+
+
 
 
 
